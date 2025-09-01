@@ -47,8 +47,7 @@ Copiar código
 
 ## 📷 Demonstração
 
-🔗 [Acessar o site oficial](https://seudominio.com)  
-*(Substituir pelo domínio real da A4 Assistência Técnica em Informática)*
+🔗 [Acessar o site oficial](https://seudominio.com)
 
 ---
 
