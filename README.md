@@ -64,7 +64,7 @@ Copiar código
 
 Desenvolvido por **[Samuel Fernandes Bisca]** para a empresa **A4 Assistência Técnica em Informática**.  
 
-[🔗 LinkedIn]([https://www.linkedin.com/in/seuusuario](https://www.linkedin.com/in/samuel-fernandes-761aa9334)) • [🌐 Portfólio](https://portfolio-comercial-samuel.vercel.app/) • [📫 Email](perfilfreelancer@gmail.com)
+[🔗 LinkedIn](https://www.linkedin.com/in/samuel-fernandes-761aa9334) • [🌐 Portfólio](https://portfolio-comercial-samuel.vercel.app/) • [📫 Email](perfilfreelancer@gmail.com)
 
 ---
 
