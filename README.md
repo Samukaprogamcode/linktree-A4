@@ -10,7 +10,7 @@ O site reúne, de forma prática e organizada, os principais links de contato e 
 - ✅ Design moderno e **personalizado para a identidade visual da empresa**  
 - ✅ Estrutura de links para acesso rápido a WhatsApp, Instagram, Facebook e demais canais  
 - ✅ Layout **100% responsivo** para dispositivos móveis, tablets e desktops  
-- ✅ Uso de **SCSS** para melhor organização e escalabilidade dos estilos  
+- ✅ Uso de modo NOTURNO e DIURNO com JS
 - ✅ Animações sutis para melhor experiência do usuário  
 - ✅ Código otimizado e de fácil manutenção  
 
