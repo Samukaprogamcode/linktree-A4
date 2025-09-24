@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidade - A4 Assistência Técnica</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+
+        header {
+            background-color: red;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            color: white;
+        }
+
+        p {
+            margin-bottom: 16px;
+        }
+
+        ul {
+            margin-bottom: 16px;
+            padding-left: 20px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            font-size: 0.9em;
+            color: white;
+            background-color: red;
+            margin-top: 20px;
+        }
+
+        /* Botão para mostrar mais detalhes */
+        .toggle-btn {
+            background-color: red;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            cursor: pointer;
+            border-radius: 4px;
+            margin-bottom: 10px;
+        }
+
+        .toggle-content {
+            display: none;
+            margin-top: 10px;
+            padding: 10px;
+            color: white;
+            background-color: #3d0000;
+            border-left: 4px solid red;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Política de Privacidade - A4 Assistência Técnica</h1>
+    </header>
+
+    <main>
+        <h2>1. Introdução</h2>
+        <p>
+            A A4 Assistência Técnica valoriza a sua privacidade e está comprometida em proteger as informações pessoais
+            que você fornece ao utilizar nossos serviços, incluindo pesquisas, formulários online e atendimento ao
+            cliente.
+        </p>
+
+        <h2>2. Coleta de informações</h2>
+        <p>
+            Podemos coletar informações como:
+        </p>
+        <ul>
+            <li>Nome e sobrenome</li>
+            <li>Endereço de e-mail</li>
+            <li>Telefone</li>
+            <li>Informações sobre os produtos ou serviços solicitados</li>
+        </ul>
+
+        <h2>3. Uso das informações</h2>
+        <p>
+            As informações coletadas são utilizadas para:
+        </p>
+        <ul>
+            <li>Responder às suas solicitações e dúvidas</li>
+            <li>Melhorar nossos serviços e atendimento</li>
+            <li>Enviar informações relevantes sobre nossos produtos e promoções</li>
+        </ul>
+
+        <h2>4. Compartilhamento de informações</h2>
+        <p>
+            Não compartilhamos suas informações com terceiros sem sua autorização, exceto quando exigido por lei ou para
+            prestação de serviços contratados.
+        </p>
+
+        <h2>5. Segurança</h2>
+        <p>
+            Implementamos medidas técnicas e administrativas para proteger suas informações contra acesso não
+            autorizado, alteração, divulgação ou destruição.
+        </p>
+
+        <button class="toggle-btn" onclick="toggleDetails()">Saiba mais sobre seus direitos</button>
+        <div class="toggle-content" id="moreDetails">
+            <p>
+                Você tem direito de acessar, corrigir ou excluir suas informações pessoais armazenadas conosco. Para
+                exercer esses direitos, entre em contato pelo telefone ou e-mail da nossa empresa.
+            </p>
+        </div>
+
+        <h2>6. Alterações nesta política</h2>
+        <p>
+            Podemos atualizar esta política de privacidade periodicamente. Recomendamos que você a consulte regularmente
+            para se manter informado.
+        </p>
+
+        <h2>7. Contato</h2>
+        <p>
+            A4 Assistência Técnica<br>
+            Rua Capitão Lindolfo Guimarães Corrêa, 1129<br>
+            São José do Rio Preto, SP<br>
+            E-mail: contato@a4assistencia.com.br<br>
+            Telefone: (17) 99999-9999
+        </p>
+    </main>
+
+    <footer>
+        © 2025 A4 Assistência Técnica. Todos os direitos reservados.
+    </footer>
+
+    <script>
+        function toggleDetails() {
+            const content = document.getElementById('moreDetails');
+            content.style.display = content.style.display === 'block' ? 'none' : 'block';
+        }
+    </script>
+
+</body>
+
+</html>
